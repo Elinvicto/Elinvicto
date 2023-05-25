@@ -1,4 +1,4 @@
-![Logo](./images/Hanumant_Logo.png)
+![Logo](https://i.imgur.com/JQharfL.png)
 
 # Hi, I'm Hanumant More! 👋
 
