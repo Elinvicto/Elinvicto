@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/19lspEKdSfEm4Oi_gJ5JDExC7f6bwQj2B/view?usp=drive_link)
+![Logo](images/Hanumant.png)
 
 # Hi, I'm Hanumant More! 👋
 
