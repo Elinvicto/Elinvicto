@@ -1,4 +1,4 @@
-![Logo](images/Hanumant Logo.png)
+![Logo](./images/Hanumant_Logo.png)
 
 # Hi, I'm Hanumant More! 👋
 
