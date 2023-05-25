@@ -1,4 +1,7 @@
-![Logo](https://i.imgur.com/JQharfL.png)
+<p align="center">
+  <img src="https://i.imgur.com/JQharfL.png" alt="Logo">
+</p>
+
 
 # Hi, I'm Hanumant More! 👋
 
